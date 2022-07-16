@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @WhiteLight77
-- 👀 I’m interested in animation and designing
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-WhiteLight77/WhiteLight77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#include<stdio.h>
+void main()
+{
+  printf("i am ramesh and i love creating new stuff\n that's all!"};
+}
